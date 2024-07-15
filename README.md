@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I practice problems on LeetCode, GeeksforGeeks, and play chess.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-deepak--singh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-singh-950140212/) or email me at singhdeepak.bengaluru7@gmail.com
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-deepak--singh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-singh-950140212/)
 - :envelope_with_arrow: Email me @singhdeepak.bengaluru7@gmail.com
 
 <!-- Adding Languages and Tools -->
@@ -62,18 +62,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snoopdeep&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :trophy: Achievements :
-- Consolation Prize Winner Of Manas Codethon’23.
-- Finalist of Code Red’24 at BMSIT Bengaluru.
-- 2nd Prize winner of TechXplore during our college fest.
-- College rank 1 in IEEEXTREME Global competition (under 1800 worldwide).
-
----
-
-### :medal_sports: Positions of Responsibility :
-- **IEEE XTREME Club | Head (Dec. 2023 – Present)**
-  - Leading the club dedicated to coding and programming challenges. Organizing technical events and coding competitions within the college.
 
 
 ### :chess_pawn: Challenge Me at Chess :
